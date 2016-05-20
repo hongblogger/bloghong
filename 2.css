@@ -1,0 +1,82 @@
+.comments .comments-content .icon.blog-author{font:bold 13px Segoe UI;position:absolute;width:55px;height:20px;display:block;top:15px;margin-left:90px;border-radius:3px;background:#0f8528;box-shadow:0 1px 3px rgba(0,0,0,0.1)}
+.comments .comments-content .icon.blog-author::before{content:&quot;Admin&quot;;position:absolute;text-shadow:0 1px 0 rgba(0,0,0,0.5);color:white;top:2px;left:8px}
+COMMENT
+---------------------------------*/
+#comments h3 { border-left: 0; padding-left: 0; color: #CB2027; margin: 0; font-weight: 300; border-top: 1px solid #ccc; border-bottom: 1px solid #ccc; padding: 5px 0; font-size: 20px }
+#comments { margin: 0; padding-top: 10px }
+#comment_block { margin: 20px 0; display: block }
+.comment_avatar { background: url(https://lh4.googleusercontent.com/-ROLNKhgoFCw/AAAAAAAAAAI/AAAAAAAAAAA/Ycbynv2hi_k/s32-c-mo/photo.jpg)no-repeat; -webkit-background-size: 45px; -moz-background-size: 45px; -o-background-size: 45px; background-size: 45px; height: 45px; width: 45px; float: left; margin-right: 10px; overflow: hidden }
+.comment_avatar img { height: 45px; width: 45px }
+a.comment-delete { background: #fff; padding: 2px 10px; color: #000; border: 1px solid #DDDDDD;font-size: 12px; margin-right: 5px }
+a.comment_reply { background: #fff; padding: 2px 10px; color: #000; border: 1px solid #DDDDDD;font-size: 12px; margin-right: 5px }
+.comment_child { margin: 8px 0 8px 30px }
+.comment_body { margin: 5px 0 ;width:100%;float: left;}
+.comment_body p { margin: 0; line-height: 22px }
+.comment_sett { padding: 10px 0 0; display: block }
+.comment_name { float: left;font-size: 15px; padding-bottom: 3px }
+.comment_service {float: left;margin-left: 10px;font-size: 15px }
+.comment_body img { max-width: 90% }
+.comment_cincong { background: #F7F7F7; padding: 8px; border: 1px solid #ddd; overflow: hidden; margin-bottom: 15px }
+#sopiler { background: #AFEAB9; padding: 8px; border: 1px solid #1EAD35; margin: 0; margin-top: 3px; text-align: center }
+#sopiler-click { background: #55C864; border-bottom: 2px solid #1EAD35; padding: 5px 10px; color: #fff }
+#sopiler-click:hover { background: #3FB64E }
+#sopiler img { max-width: 90%; display: block; margin: 0 auto; border: 1px solid #333 }
+.post {padding: 10px;    line-height: 1.7em;}
+
+.download{height:32px;color:#fff;border:1px solid #FFF;cursor:pointer;background:#FF9000;margin:20px;padding:15px}
+.demo{height:32px;color:#fff;border:1px solid #FFF;cursor:pointer;background:#2980B9;margin:20px;padding:15px}
+.demo:hover, .download:hover{background:#32CD32;box-shadow: 0 0px 10px 0 #C3C3C3;}
+.image_src,.not-show,.lande{position:absolute;top:-9999px;left:-9999px}
+.button{float:left;list-style:none;text-align:center;width:95%;margin:10px;
+padding:2px;font-size:14px;clear:both;}
+.button ul {margin:0;padding:0}
+.button li{display:inline;margin:5px;padding:0;list-style:none;}
+.demo,.download {padding:12px 15px!important;color:#fff!important;font-weight:700;font-size:14px;font-family:&#39;Open Sans&#39;,sans-serif;text-align:center;text-transform:uppercase;letter-spacing:0.5px;border-radius:3px;transition:all 0.3s ease-out;}
+.demo {background-color:#444;}
+.download {background-color:#e76e66;}
+.demo:hover {background-color:#e76e66;color:#fff;}
+.download:hover {background-color:#444;color:#fff;}
+.demo:before {content:&#39;\f0a9&#39;;display:inline-block;font-weight:normal;vertical-align:top;margin-right:10px;width:16px;height:16px;line-height:24px;font-family:fontawesome;transition:all 0.5s ease-out;}
+.download:before {content:&#39;\f019&#39;;display:inline-block;font-weight:normal;vertical-align:top;margin-right:10px;width:16px;height:16px;line-height:24px;font-family:fontawesome;transition:all 0.5s ease-out;}
+.top-comment-widget-menu{float:left;margin:0px 0 15px;padding:0;width:100%;height:55px;background:#444}
+.top-comment{float:left;font-size:14px;list-style:none outside none;text-transform:uppercase;width:50%;padding:20px 5px!important;font-weight:normal;color:#fff;cursor:pointer}
+#relpost_img_sum .news-text{display:none}
+#top-comment{box-shadow:0 1px 0 rgba(0,0,0,.05),0 3px 3px rgba(0,0,0,.05);margin-top:20px;overflow:hidden;font-size:100%;position:relative;background:white}
+.top-content{padding:0}
+.top-comment.selected{cursor:pointer;padding:20px 10px!important;margin:0;color:#FFF;background:#E74C3C;-webkit-transition:all .2s ease-in-out;-moz-transition:all .2s ease-in-out;-o-transition:all .2s ease-in-out;-ms-transition:all .2s ease-in-out;transition:all .2s ease-in-out}
+.top-comment.blogico:before{content:&quot;\f0d5&quot;;font-family:fontawesome;margin-right:15px}
+.top-comment.faceico:before{content:&quot;\f09a&quot;;font-family:fontawesome;margin-right:15px}
+h1.post-title{margin:0;padding:0}
+.related-post{margin-top:20px;font-size:13px;background:#fff;box-shadow:0 1px 0 rgba(0,0,0,.05),0 3px 3px rgba(0,0,0,.05)}
+#top-comment h4,.related-post h4{font-size:17px;margin:0 0 .5em;background:#2980B9;color:#fff;padding:10px;font-weight:normal;position:relative;text-transform:uppercase}
+#top-comment h4:before,.related-post h4:before{content:&quot;\f121&quot;;display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;margin-right:6px;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;transform:translate(0,0)}
+ul.related-post-style-1{margin-left:0;padding-left:0!important;margin-top:-12px}
+.related-post-style-1 li{list-style:none;border-top:1px solid #eceef5}
+.related-post-style-1 li a{color:#333;text-decoration:none;font-size:16px;display:block;padding:15px}
+.related-post-style-1 li a:hover{color:#FFFFFF;text-decoration:none;background:#F1C40F}
+ul#relpost li .relatedpost_description{font:normal 11px Electrolize,sans-serif}
+.post{box-shadow:0 1px 0 rgba(0,0,0,.05),0 3px 3px rgba(0,0,0,.05)}
+.blog-pager,#blog-pager{z-index:333;position:fixed;bottom:0;left:0;right;0;height:40px;width:100%}
+a.blog-pager-older-link,a.blog-pager-newer-link{background-color:#999;color:#fff!important;padding:0 10px;position:absolute;top:0;transition:all 400ms ease-in-out;height:40px;line-height:40px}
+a.blog-pager-older-link{right:0;padding:5px;height:40px;line-height:40px}
+a.blog-pager-newer-link{left:0;padding:5px;height:40px;line-height:40px}
+a.home-link{visibility:hidden}
+.blog-pager-older-link h6,.blog-pager-newer-link h6{font-size:24px;font-weight:300;margin-top: 0px;}
+.blog-pager-older-link h7,.blog-pager-newer-link h7.new{position:absolute;background-color:#E74C3C;padding:0 10px;font-size:14px;font-weight:normal;margin:0!important;transition:all 400ms ease-in-out;width:400px!important;display:inline-block}
+.blog-pager-older-link h7{top:0;right:-1000px;text-align:right!important}
+.blog-pager-newer-link h7.new{top:0;left:-1000px;text-align:left!important}
+.blog-pager-older-link:hover h7{right:30px;}
+.blog-pager-newer-link:hover h7.new{left:30px;}
+@media screen and (max-width:240px){
+.blog-pager-older-link h6,.blog-pager-newer-link h6{font-size:20px;}}
+pre{-webkit-user-select:text;-khtml-user-select:text;-moz-user-select:text;-ms-user-select:text;user-select:text;padding:0;margin:.5em auto;white-space:pre;word-wrap:break-word;overflow:auto;background-color:#95A5A6;position:relative;padding-top:33px;width:100%;-moz-tab-size:2;-o-tab-size:2;tab-size:2;word-break:normal;-webkit-user-select:text;-khtml-user-select:text;-moz-user-select:text;-ms-user-select:text;user-select:text;-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none;border-radius:3px;}
+pre::-webkit-scrollbar,pre::-moz-scrollbar,pre code::-webkit-scrollbar,pre code::-moz-scrollbar,code::-webkit-scrollbar,code::-moz-scrollbar {display:none;}
+pre::before{font-size:15px;font-family:&#39;Open Sans&#39;;content:attr(title);position:absolute;top:0;padding:9px 0;left:0;right:0;color:#79798d;display:block;margin:0;text-indent:15px}
+pre:after{display:inline-block;content:&quot;\f121&quot;;font-family:fontAwesome;font-style:normal;font-weight:normal;font-size:18px;color:#79798d;top:0;right:0;padding:9px 14px;position:absolute}
+pre code{display:block;background:none;border:none;color:#bec3ce;padding:25px 20px 20px 20px;font-family:&#39;Source Code Pro&#39;,Menlo,Consolas,Monaco,monospace;font-size:.83rem;white-space:pre;overflow:auto}
+code .token.important {font-weight:bold;}
+code .token.entity {cursor:help;}
+pre mark,code mark,pre code mark {background-color:#3498db!important;color:#fff!important;padding:2px;margin:0 2px;border-radius:2px;}
+pre[data-codetype=&quot;CSSku&quot;]:before,pre[data-codetype=&quot;HTMLku&quot;]:before,
+pre[data-codetype=&quot;JavaScriptku&quot;]:before,pre[data-codetype=&quot;JQueryku&quot;]:before{background-color:#fff;box-shadow:inset 0 0 0 1px #eee;}
+pre{max-height:250px;color:#FFF;padding:55px 20px 20px 20px;font-family:&#39;Source Code Pro&#39;,Menlo,Consolas,Monaco,monospace;font-size:.83rem;white-space:pre;overflow:auto}
