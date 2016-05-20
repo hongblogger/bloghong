@@ -1,0 +1,12 @@
+@media only screen and (max-width:640px){
+.post-body img{max-width:220px}h1{font-size:150%}
+h2.post-title,h1.post-title,h2.post-title a,h1.post-title a,h2.post-title,h1.post-title{font-size:130%;text-align:center}
+}
+@media only screen and (max-width:480px){
+.post-body img{max-width:220px}h1{font-size:120%}
+h2.post-title,h1.post-title,h2.post-title a,h1.post-title a,h2.post-title,h1.post-title{font-size:120%;text-align:center}
+}
+@media only screen and (max-width:320px){
+.post-body img{max-width:220px}h1{font-size:110%}
+h2.post-title,h1.post-title,h2.post-title a,h1.post-title a,h2.post-title,h1.post-title{font-size:110%;text-align:center}
+}
