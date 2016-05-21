@@ -1,0 +1,28 @@
+.textarea5{border:1px solid rgba(130,115,119,0.31);height:20px;max-height:20px;min-height:20px;width:40px;max-width:40px;min-width:40px;padding:0;margin:0 0 -2.5px 0;font-weight:bold;font-size:15px;transition:all .4s ease;-ms-transition:all .4s ease;-webkit-transition:all .4s ease;-moz-transition:all .4s ease}
+.textarea5:focus,.textarea5:hover{}
+textarea{border:1px solid rgba(130,115,119,0.31);resize:none;outline:none;padding:5px;margin-top:-12px;font-family:Helvetica,Arial,&quot;Sans Serif&quot;;font-size:13px;color:#333;text-align:center;height:46px;width:280px;max-height:46px;max-width:280px;min-height:46px;min-width:280px;overflow:hidden;transition:all .4s ease;-ms-transition:all .4s ease;-webkit-transition:all .4s ease;-moz-transition:all .4s ease}
+textarea:focus,textarea:hover{}
+.post-body table td,.post-body table caption{padding:10px;text-align:left;vertical-align:top}
+.post-body table th{padding:10px;text-align:left;vertical-align:top}
+.post-body table.tr-caption-container{border:1px solid #eee}
+.post-body th{font-weight:700}
+.post-body table caption{border:none;font-style:italic}
+.post-body table{}
+.post-body td,.post-body th{vertical-align:top;text-align:left;font-size:13px;padding:3px 5px;border:1px solid #eee}
+.post-body td:hover{background:#fefefe}
+.post-body th{background:#fafafa}
+.post-body th:hover{background:#fdfdfd}
+.post-body table.tr-caption-container td{border:none;padding:8px}
+.post-body table.tr-caption-container,.post-body table.tr-caption-container img,.post-body img{max-width:100%;height:auto}
+.skytable td:focus,.skytable td:hover{}
+.skytable img{margin-bottom:-4px}
+.skytable2 td{padding:9px;font-size:2.1em;text-align:center;transition:all .4s ease;-ms-transition:all .4s ease;-webkit-transition:all .4s ease;-moz-transition:all .4s ease}
+.skytable2 td:focus,.skytable2 td:hover{background-color:#E1E7F2}
+.skytable3{width:220px}
+.skytable3 td{height:15px;font-size:15px;text-align:center;transition:all .4s ease;-ms-transition:all .4s ease;-webkit-transition:all .4s ease;-moz-transition:all .4s ease}
+.skytable3 td:focus,.skytable3 td:hover{}
+.skytable img{margin-bottom:-4px}
+.skytable3 img{margin-bottom:-3px}
+.skytablelist td{font-size:15px;text-align:center;transition:all .4s ease;-ms-transition:all .4s ease;-webkit-transition:all .4s ease;-moz-transition:all .4s ease}
+.skytablelist td:focus,.skytablelist td:hover{}
+.skytablelist img{margin-bottom:-4px;text-align:center}
