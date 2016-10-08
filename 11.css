@@ -1,7 +1,7 @@
 ----------------------------------------------- */
 html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
-body{font-family:'Roboto Condensed',sans-serif;line-height:1;display:block}
+body{font-family: 'VNFFuturaRegular',sans-serif;line-height:1;display:block}
 *{margin:0;padding:0}html{display:block}ol,ul{list-style:none}blockquote,q{quotes:none}
 blockquote:before,blockquote:after,q:before,q:after{background:transparent}
 table{border-collapse:collapse;border-spacing:0}
@@ -23,7 +23,7 @@ kbd{display:inline-block;border:1px solid #ddd;border-radius:3px;padding:0 ;marg
 kbd:hover{border-color:#aaa;color:#222}
 p,blockquote,pre,table,figure,hr,form,ol,ul,dl{margin:0}
 hr{height:1px;border:none;background-color:#999}
-h1,h2,h3,h4,h5,h6{font-family: 'Roboto Condensed', sans-serif;font-weight:300;margin:0 }
+h1,h2,h3,h4,h5,h6{font-family: 'VNFFuturaRegular', sans-serif;font-weight:300;margin:0 }
 h1{font-size:200%}h2{font-size:180%}h3{font-size:160%}h4{font-size:140%}h5{font-size:120%}h6{font-size:100%}
 .post h2, .post h3 {
     position: relative;
@@ -36,7 +36,7 @@ h1{font-size:200%}h2{font-size:180%}h3{font-size:160%}h4{font-size:140%}h5{font-
 .post h2:before,.post h3:before{content:'';position:absolute;bottom:-2px;left:0;right:0;background:#fc4f69;width:7%;height:2px;}
 input,button,select,textarea{font-size:100%;line-height:normal;vertical-align:baseline}
 textarea{width:100%;display:block;box-sizing:border-box}
-pre,code{font-family:"Segoe UI",Arial,sans-serif;color:#444}
+pre,code{font-family: 'VNFFuturaRegular',Arial,sans-serif;color:#444}
 pre{white-space:pre;word-wrap:normal;overflow:auto}
 blockquote{position:relative;line-height:24px;margin:15px 0;border-left:3px solid #ccc;font-weight:400;padding:0 18px}
 *:focus{outline:0!important}ul,dl{margin:0}ol{list-style:decimal outside}ul{list-style:disc outside}
@@ -53,7 +53,7 @@ table.columns-4 td.columns-cell{width:25%}
 table.section-columns td.columns-cell{vertical-align:top}
 table.tr-caption-container{padding:4px;margin-bottom:.5em}
 td.tr-caption{font-size:80%}
-body{background:#f2f2f2;margin:0 0 0 0;margin:0 0 0 0;padding:0 0 0 0;color:#222;font-family: 'Roboto Condensed', sans-serif;font-size:14px;font-weight:400;text-align:left}
+body{background:#f2f2f2;margin:0 0 0 0;margin:0 0 0 0;padding:0 0 0 0;color:#222;font-family: 'VNFFuturaRegular', sans-serif;font-size:14px;font-weight:400;text-align:left}
 .clearfix:before,.clearfix:after,.container:before,.container:after,.container-fluid:before,.container-fluid:after,.row:before,.row:after,.form-horizontal .form-group:before,.form-horizontal .form-group:after,.btn-toolbar:before,.btn-toolbar:after,.btn-group-vertical>.btn-group:before,.btn-group-vertical>.btn-group:after,.nav:before,.nav:after,.navbar:before,.navbar:after,.navbar-header:before,.navbar-header:after,.navbar-collapse:before,.navbar-collapse:after,.pager:before,.pager:after,.panel-body:before,.panel-body:after,.modal-footer:before,.modal-footer:after{content:" ";display:table}
 .widget ul{padding:0}.clear{clear:both}
 .clear:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}
@@ -112,7 +112,7 @@ ul#share-menu { margin: 10px 0; padding: 5px 15px }
 #comments,.footer .widget,.sidebar .widget{box-shadow:0 1px 0 rgba(0,0,0,.05),0 3px 3px rgba(0,0,0,.05)}
 #blog-pager-newer-link { float: left; font-size: 200%; font-weight: 700 }
 #blog-pager-older-link { float: right; font-size: 200%; font-weight: 700 }
-.blog-pager, #blog-pager { margin-bottom: 69px !important; clear: both; text-align: center; font-family: 'Open Sans', sans-serif }
+.blog-pager, #blog-pager { margin-bottom: 69px !important; clear: both; text-align: center; font-family: 'VNFFuturaRegular', sans-serif }
 #blog-pager-newer-link a, #blog-pager-older-link a, a.home-link { color: #333; transition: all .4s ease-in-out }
 #blog-pager-newer-link a:hover, #blog-pager-older-link a:hover, a.home-link:hover { color: red }
 .breadcrumbs { padding: 6px; color: white; background: #27AE60 }
