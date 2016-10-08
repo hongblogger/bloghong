@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'SenFont';
+  src: url('/master/sen_gdi%20(1).eot'); /* IE9 Compat Modes */
+  src: url('/master/sen_gdi.eot') format('embedded-opentype'), /* IE6-IE8 */
+       url('/master/sen_gdi.ttf') format('woff'), /* Pretty Modern Browsers */
+       url('/master/sen_gdi.woff')  format('truetype'), /* Safari, Android, iOS */
+       url('/master/banner.jpg') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'VNFFuturaRegular';
+  src: url('/master/VNFFuturaRegular.woff'); /* IE9 Compat Modes */
+  src: url('/master/VNFFuturaRegular.ttf') format('embedded-opentype'), /* IE6-IE8 */
+       url('/master/VNFFuturaRegular.eot') format('woff'), /* Pretty Modern Browsers */
+       url('/master/VNFFuturaRegular%20(1).eot')  format('truetype'), /* Safari, Android, iOS */
+       url('/bloghong/master/banner.jpg') format('svg'); /* Legacy iOS */
+}
