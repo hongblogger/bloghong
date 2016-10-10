@@ -1,4 +1,3 @@
------------------------------------------------ */
 html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
 body{font-family: 'VNFFuturaRegular';line-height:1;display:block}
@@ -110,6 +109,12 @@ ul#share-menu { margin: 10px 0; padding: 5px 15px }
 #colright { width: 30%; float: right; margin: 0; padding: 0 }
 #post-wrapper { max-width: 96%; width: 100%; margin: 0 auto; padding: 0; overflow: hidden; margin-top: 75px }
 #comments,.footer .widget,.sidebar .widget{box-shadow:0 1px 0 rgba(0,0,0,.05),0 3px 3px rgba(0,0,0,.05)}
+#blog-pager-newer-link { float: left; font-size: 200%; font-weight: 700 }
+#blog-pager-older-link { float: right; font-size: 200%; font-weight: 700 }
+.blog-pager, #blog-pager { margin-bottom: 69px !important; clear: both; text-align: center; font-family: 'VNFFuturaRegular'; }
+#blog-pager-newer-link a, #blog-pager-older-link a, a.home-link { color: #333; transition: all .4s ease-in-out }
+#blog-pager-newer-link a:hover, #blog-pager-older-link a:hover, a.home-link:hover { color: red }
+img.avata.box{border-radius:100%}
 .breadcrumbs { padding: 6px; color: white; background: #27AE60 }
 .breadcrumbs a { color: white }
 .breadcrumbs a:hover { color: #F1C40F }
