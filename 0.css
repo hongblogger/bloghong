@@ -110,11 +110,6 @@ ul#share-menu { margin: 10px 0; padding: 5px 15px }
 #colright { width: 30%; float: right; margin: 0; padding: 0 }
 #post-wrapper { max-width: 96%; width: 100%; margin: 0 auto; padding: 0; overflow: hidden; margin-top: 75px }
 #comments,.footer .widget,.sidebar .widget{box-shadow:0 1px 0 rgba(0,0,0,.05),0 3px 3px rgba(0,0,0,.05)}
-#blog-pager-newer-link { float: left; font-size: 200%; font-weight: 700 }
-#blog-pager-older-link { float: right; font-size: 200%; font-weight: 700 }
-.blog-pager, #blog-pager { margin-bottom: 69px !important; clear: both; text-align: center; font-family: 'VNFFuturaRegular'; }
-#blog-pager-newer-link a, #blog-pager-older-link a, a.home-link { color: #333; transition: all .4s ease-in-out }
-#blog-pager-newer-link a:hover, #blog-pager-older-link a:hover, a.home-link:hover { color: red }
 .breadcrumbs { padding: 6px; color: white; background: #27AE60 }
 .breadcrumbs a { color: white }
 .breadcrumbs a:hover { color: #F1C40F }
