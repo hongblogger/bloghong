@@ -1,7 +1,5 @@
 .comments .comments-content .icon.blog-author{font:bold 13px Segoe UI;position:absolute;width:55px;height:20px;display:block;top:15px;margin-left:90px;border-radius:3px;background:#0f8528;box-shadow:0 1px 3px rgba(0,0,0,0.1)}
 .comments .comments-content .icon.blog-author::before{content:&quot;Admin&quot;;position:absolute;text-shadow:0 1px 0 rgba(0,0,0,0.5);color:white;top:2px;left:8px}
-COMMENT
----------------------------------*/
 #comments h3 { border-left: 0; padding-left: 0; color: #CB2027; margin: 0; font-weight: 300; border-top: 1px solid #ccc; border-bottom: 1px solid #ccc; padding: 5px 0; font-size: 20px }
 #comments { margin: 0; padding-top: 10px }
 #comment_block { margin: 20px 0; display: block }
@@ -22,7 +20,6 @@ a.comment_reply { background: #fff; padding: 2px 10px; color: #000; border: 1px 
 #sopiler-click:hover { background: #3FB64E }
 #sopiler img { max-width: 90%; display: block; margin: 0 auto; border: 1px solid #333 }
 .post {padding: 10px;    line-height: 1.7em;}
-
 .download{height:32px;color:#fff;border:1px solid #FFF;cursor:pointer;background:#FF9000;margin:20px;padding:15px}
 .demo{height:32px;color:#fff;border:1px solid #FFF;cursor:pointer;background:#2980B9;margin:20px;padding:15px}
 .demo:hover, .download:hover{background:#32CD32;box-shadow: 0 0px 10px 0 #C3C3C3;}
