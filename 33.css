@@ -36,7 +36,7 @@
 }
 @media (min-width:992px){.container{width:970px}
 }
-@media (min-width:1200px){.container{width:1170px}
+@media (min-width:1200px){.container{width:100%}
 .col-xs-4,.col-sm-4,.col-md-4,.col-lg-4{position:relative;min-height:1px;padding-left:15px;padding-right:15px}
 }
 @media (min-width:768px){.col-sm-4{float:left}
